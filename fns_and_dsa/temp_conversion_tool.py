@@ -30,6 +30,6 @@ elif type_temp == 'C' :
     convert_to_fahrenheit(temp)
 
 else:
-    print("Invalid temperature degree!!")
+    print("Invalid temperature. Please enter a numeric value.")
 
 
